@@ -1,5 +1,5 @@
-# ⭐ If you find this project useful, please consider starring the repository.
 # Portfolio Market Risk Analysis (VaR & CVaR)
+# ⭐ If you find this project useful, please consider starring the repository.
 This project implements a Python-based portfolio market risk framework using SPY, TLT, and GLD ETF data.
 
 ## Methods Implemented
